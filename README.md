@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kemal,I am an Electrical & Electronical Engineer in Turkey.
+- 👋 Hi, I’m Kemal, I am an Electrical & Electronical Engineer in Turkey.
 - 👀 I’m interested in Data Science, Game Technologies, Software Development Pipeline,..
 - 🌱 I’m currently learning Advanced Data Structures, Algorithms, OOP in Python and C++.
 - 💞️ I’m looking to collaborate on 3D Game, Computer Vision, Reinforcement Learning, Software Development Projects.
